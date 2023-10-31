@@ -120,6 +120,6 @@ for iter in range(max_iters):
 
 writer.close()
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
-FILE = '/data/tzeshinchen/research/gpt2/logs/weigth/'+str(training_size)+'_' + \
+FILE = '/data/tzeshinchen/research/gpt2/logs/weight/'+str(training_size)+'_' + \
     str(n_layer)+'_model_state_dict.pt'
 torch.save(model.state_dict(), FILE)
