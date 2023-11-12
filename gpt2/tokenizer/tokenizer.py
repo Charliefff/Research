@@ -5,7 +5,7 @@ with open('/data/tzeshinchen/research/dataset/smiles_pad.txt', 'r', encoding='ut
 
 chars = sorted(list(set(text)))
 vocab_size = len(chars)
-# 建立字典
+
 special = ['U']
 stoi = {ch: i for i, ch in enumerate(chars+special)}
 itos = {i: ch for i, ch in enumerate(chars+special)}

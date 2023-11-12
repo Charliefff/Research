@@ -1,0 +1,37 @@
+Files: 1200000_12.txt
+Total repeated SMILES: 50000
+Total unique SMILES: 0
+Overall unique rate: 0.0
+
+Files: 1200000_6.txt
+Total repeated SMILES: 50000
+Total unique SMILES: 0
+Overall unique rate: 0.0
+
+Files: 900000_12.txt
+Total repeated SMILES: 50000
+Total unique SMILES: 0
+Overall unique rate: 0.0
+
+Files: 300000_12.txt
+Total repeated SMILES: 50000
+Total unique SMILES: 0
+Overall unique rate: 0.0
+
+Files: 1200000_24.txt
+Total repeated SMILES: 50000
+Total unique SMILES: 0
+Overall unique rate: 0.0
+
+Files: 700000_12.txt
+Total repeated SMILES: 50000
+Total unique SMILES: 0
+Overall unique rate: 0.0
+
+Files: 500000_12.txt
+Total repeated SMILES: 50000
+Total unique SMILES: 0
+Overall unique rate: 0.0
+
+MolGPT 
+Overall unique rate: 0.0

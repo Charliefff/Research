@@ -1,0 +1,40 @@
+Files: 300000_12.txt
+Total repeated SMILES: 3627
+Total novel SMILES: 46373
+Overall novelty rate: 0.92746
+
+Files: 500000_12.txt
+Total repeated SMILES: 1831
+Total novel SMILES: 48169
+Overall novelty rate: 0.96338
+
+Files: 700000_12.txt
+Total repeated SMILES: 1411
+Total novel SMILES: 48589
+Overall novelty rate: 0.97178
+
+Files: 900000_12.txt
+Total repeated SMILES: 1038
+Total novel SMILES: 48962
+Overall novelty rate: 0.97924
+
+Files: 1200000_12.txt
+Total repeated SMILES: 975
+Total novel SMILES: 49025
+Overall novelty rate: 0.9805
+
+
+Files: 1200000_6.txt
+Total repeated SMILES: 1392
+Total novel SMILES: 48608
+Overall novelty rate: 0.97216
+
+Files: 1200000_12.txt
+Total repeated SMILES: 975
+Total novel SMILES: 49025
+Overall novelty rate: 0.9805
+
+Files: 1200000_24.txt
+Total repeated SMILES: 351
+Total novel SMILES: 49649
+Overall novelty rate: 0.99298

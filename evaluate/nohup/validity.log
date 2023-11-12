@@ -1,0 +1,169 @@
+  0%|          | 0/7 [00:00<?, ?it/s][21:43:22] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[21:43:26] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[21:43:43] UFFTYPER: Warning: hybridization set to SP3 for atom 2
+[21:45:21] UFFTYPER: Warning: hybridization set to SP3 for atom 14
+[21:46:51] WARNING: not removing hydrogen atom with dummy atom neighbors
+[21:46:51] WARNING: not removing hydrogen atom with dummy atom neighbors
+[21:47:09] UFFTYPER: Warning: hybridization set to SP3 for atom 31
+[21:47:31] UFFTYPER: Warning: hybridization set to SP3 for atom 7
+[21:48:50] UFFTYPER: Warning: hybridization set to SP3 for atom 3
+[21:49:58] UFFTYPER: Warning: hybridization set to SP3 for atom 27
+[21:50:18] UFFTYPER: Warning: hybridization set to SP3 for atom 16
+[21:50:28] UFFTYPER: Warning: hybridization set to SP3 for atom 4
+[21:51:00] UFFTYPER: Warning: hybridization set to SP3 for atom 11
+[21:52:17] UFFTYPER: Warning: hybridization set to SP3 for atom 23
+[21:53:09] UFFTYPER: Warning: hybridization set to SP3 for atom 6
+[21:53:28] UFFTYPER: Warning: hybridization set to SP3 for atom 24
+[21:53:43] UFFTYPER: Warning: hybridization set to SP3 for atom 27
+[21:53:43] UFFTYPER: Warning: hybridization set to SP3 for atom 12
+[21:54:02] UFFTYPER: Warning: hybridization set to SP for atom 1
+[21:54:22] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[21:54:27] Conflicting single bond directions around double bond at index 11.
+[21:54:27]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:54:33] UFFTYPER: Warning: hybridization set to SP3 for atom 26
+[21:55:03] UFFTYPER: Warning: hybridization set to SP3 for atom 9
+[21:55:10] UFFTYPER: Warning: hybridization set to SP3 for atom 7
+[21:55:10] UFFTYPER: Warning: hybridization set to SP3 for atom 15
+[21:55:53] Conflicting single bond directions around double bond at index 32.
+[21:55:53]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:56:10] UFFTYPER: Warning: hybridization set to SP3 for atom 9
+[21:56:10] UFFTYPER: Warning: hybridization set to SP3 for atom 37
+[21:56:29] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[21:57:06] UFFTYPER: Warning: hybridization set to SP3 for atom 20
+[21:57:46] Conflicting single bond directions around double bond at index 3.
+[21:57:46]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:58:49] UFFTYPER: Warning: hybridization set to SP3 for atom 25
+[21:59:26] UFFTYPER: Warning: hybridization set to SP3 for atom 15
+[22:01:01] Conflicting single bond directions around double bond at index 22.
+[22:01:01]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:01:07] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:03:04] UFFTYPER: Warning: hybridization set to SP3 for atom 26
+[22:03:08] UFFTYPER: Warning: hybridization set to SP3 for atom 21
+[22:05:00] UFFTYPER: Warning: hybridization set to SP3 for atom 7
+[22:05:03] Conflicting single bond directions around double bond at index 30.
+[22:05:03]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:05:33] Conflicting single bond directions around double bond at index 4.
+[22:05:33]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:06:26] UFFTYPER: Warning: hybridization set to SP3 for atom 25
+[22:06:27] Conflicting single bond directions around double bond at index 22.
+[22:06:27]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:06:43] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:06:56] UFFTYPER: Warning: hybridization set to SP3 for atom 23
+[22:07:11] Conflicting single bond directions around double bond at index 7.
+[22:07:11]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:09:32] Conflicting single bond directions around double bond at index 8.
+[22:09:32]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:09:33] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:09:38] Conflicting single bond directions around double bond at index 10.
+[22:09:38]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:09:45] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:10:10] Conflicting single bond directions around double bond at index 13.
+[22:10:10]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:10:54] UFFTYPER: Warning: hybridization set to SP3 for atom 20
+[22:13:10] UFFTYPER: Warning: hybridization set to SP3 for atom 2
+[22:14:17] UFFTYPER: Warning: hybridization set to SP3 for atom 35
+[22:15:04] UFFTYPER: Warning: hybridization set to SP3 for atom 5
+[22:15:19] UFFTYPER: Warning: hybridization set to SP3 for atom 11
+[22:17:00] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:17:52] Conflicting single bond directions around double bond at index 8.
+[22:17:52]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:18:19] Conflicting single bond directions around double bond at index 10.
+[22:18:19]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:18:30] UFFTYPER: Warning: hybridization set to SP3 for atom 7
+[22:18:36] UFFTYPER: Warning: hybridization set to SP3 for atom 4
+[22:20:33] UFFTYPER: Warning: hybridization set to SP3 for atom 2
+[22:20:34] UFFTYPER: Warning: hybridization set to SP3 for atom 9
+[22:20:46] UFFTYPER: Warning: hybridization set to SP3 for atom 18
+[22:21:19] UFFTYPER: Warning: hybridization set to SP3 for atom 4
+[22:21:30] UFFTYPER: Warning: hybridization set to SP3 for atom 15
+[22:22:09] UFFTYPER: Warning: hybridization set to SP3 for atom 6
+[22:23:33] UFFTYPER: Warning: hybridization set to SP3 for atom 3
+[22:26:19] UFFTYPER: Warning: hybridization set to SP3 for atom 10
+[22:26:28] UFFTYPER: Warning: hybridization set to SP3 for atom 3
+[22:26:44] Conflicting single bond directions around double bond at index 6.
+[22:26:44]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:27:41] Conflicting single bond directions around double bond at index 8.
+[22:27:41]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:28:16] Conflicting single bond directions around double bond at index 3.
+[22:28:16]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:29:05] UFFTYPER: Warning: hybridization set to SP3 for atom 6
+[22:29:54] Conflicting single bond directions around double bond at index 13.
+[22:29:54]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:30:41] UFFTYPER: Warning: hybridization set to SP3 for atom 14
+[22:31:15] Conflicting single bond directions around double bond at index 2.
+[22:31:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:31:53] UFFTYPER: Warning: hybridization set to SP3 for atom 6
+[22:32:14] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:32:20] UFFTYPER: Warning: hybridization set to SP3 for atom 4
+[22:32:37] UFFTYPER: Warning: hybridization set to SP3 for atom 18
+[22:32:46] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:32:48] Conflicting single bond directions around double bond at index 19.
+[22:32:48]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:33:03] Conflicting single bond directions around double bond at index 6.
+[22:33:03]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:34:42] Conflicting single bond directions around double bond at index 31.
+[22:34:42]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:35:01] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:35:14] UFFTYPER: Warning: hybridization set to SP3 for atom 28
+[22:35:20] UFFTYPER: Warning: hybridization set to SP3 for atom 14
+[22:35:20] UFFTYPER: Warning: hybridization set to SP3 for atom 14
+[22:35:20] Could not triangle bounds smooth molecule.
+[22:37:11] Conflicting single bond directions around double bond at index 7.
+[22:37:11]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:38:49] Conflicting single bond directions around double bond at index 12.
+[22:38:49]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:39:25] UFFTYPER: Warning: hybridization set to SP3 for atom 2
+[22:39:26] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:39:37] UFFTYPER: Warning: hybridization set to SP3 for atom 16
+[22:40:32] UFFTYPER: Warning: hybridization set to SP3 for atom 2
+[22:40:36] UFFTYPER: Warning: hybridization set to SP3 for atom 4
+[22:41:09] UFFTYPER: Warning: hybridization set to SP3 for atom 14
+[22:43:06] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:43:39] UFFTYPER: Warning: hybridization set to SP3 for atom 3
+[22:44:58] UFFTYPER: Warning: hybridization set to SP3 for atom 7
+[22:45:30] UFFTYPER: Warning: hybridization set to SP3 for atom 11
+[22:45:45] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:46:09] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:47:55] UFFTYPER: Warning: hybridization set to SP3 for atom 2
+[22:49:34] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:50:31] UFFTYPER: Warning: hybridization set to SP3 for atom 25
+[22:50:48] Conflicting single bond directions around double bond at index 10.
+[22:50:48]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:51:06] UFFTYPER: Warning: hybridization set to SP3 for atom 3
+[22:52:56] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[22:53:32] UFFTYPER: Warning: hybridization set to SP3 for atom 5
+[22:53:42] UFFTYPER: Warning: hybridization set to SP3 for atom 4
+[22:54:24] UFFTYPER: Warning: hybridization set to SP3 for atom 22
+[22:57:22] UFFTYPER: Warning: hybridization set to SP3 for atom 3
+[22:57:31] Conflicting single bond directions around double bond at index 19.
+[22:57:31]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[22:59:21] UFFTYPER: Warning: hybridization set to SP3 for atom 6
+[23:00:23] UFFTYPER: Warning: hybridization set to SP3 for atom 16
+[23:01:52] Conflicting single bond directions around double bond at index 8.
+[23:01:52]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[23:02:10] UFFTYPER: Warning: hybridization set to SP3 for atom 6
+[23:03:30] Conflicting single bond directions around double bond at index 14.
+[23:03:30]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[23:03:40] UFFTYPER: Warning: hybridization set to SP3 for atom 25
+[23:03:48] UFFTYPER: Warning: hybridization set to SP3 for atom 3
+[23:06:22] UFFTYPER: Warning: hybridization set to SP3 for atom 11
+[23:07:07] Conflicting single bond directions around double bond at index 23.
+[23:07:07]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[23:07:53] Conflicting single bond directions around double bond at index 8.
+[23:07:53]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[23:08:40] UFFTYPER: Warning: hybridization set to SP3 for atom 16
+[23:14:55] UFFTYPER: Warning: hybridization set to SP3 for atom 1
+[23:15:55] UFFTYPER: Warning: hybridization set to SP3 for atom 4
+[23:20:15] UFFTYPER: Warning: hybridization set to SP3 for atom 35
+[23:20:18] UFFTYPER: Warning: hybridization set to SP3 for atom 6
+[23:20:30] UFFTYPER: Warning: hybridization set to SP3 for atom 4
+[23:22:45] UFFTYPER: Warning: hybridization set to SP3 for atom 9
+[23:24:39] UFFTYPER: Warning: hybridization set to SP3 for atom 30
+[23:25:22] UFFTYPER: Warning: hybridization set to SP3 for atom 3
+[23:26:04] UFFTYPER: Warning: hybridization set to SP3 for atom 30
+[23:27:49] UFFTYPER: Warning: hybridization set to SP3 for atom 48
+[23:30:49] UFFTYPER: Warning: hybridization set to SP3 for atom 10
+[23:33:17] UFFTYPER: Warning: hybridization set to SP3 for atom 25
+[23:33:41] Conflicting single bond directions around double bond at index 5.
+[23:33:41]   BondStereo set to STEREONONE and single bond directions set to NONE.
+ 14%|█▍        | 1/7 [1:54:08<11:24:48, 6848.14s/it]100%|██████████| 7/7 [1:54:08<00:00, 978.31s/it]    

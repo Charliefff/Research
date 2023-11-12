@@ -1,0 +1,39 @@
+1200000_12.txt
+Total valid SMILES: 43645
+Total invalid SMILES: 6350
+Overall validation rate: 0.8729
+
+900000_12.txt
+Total valid SMILES: 42984
+Total invalid SMILES: 7012
+Overall validation rate: 0.85968
+
+700000_12.txt
+Total valid SMILES: 41511
+Total invalid SMILES: 8469
+Overall validation rate: 0.83022
+
+500000_12.txt
+Total valid SMILES: 41402
+Total invalid SMILES: 8587
+Overall validation rate: 0.82804
+
+300000_12.txt
+Total valid SMILES: 43225
+Total invalid SMILES: 6767
+Overall validation rate: 0.8645
+
+1200000_6.txt
+Total valid SMILES: 39155
+Total invalid SMILES: 10833
+Overall validation rate: 0.7831
+
+1200000_12.txt
+Total valid SMILES: 43645
+Total invalid SMILES: 6350
+Overall validation rate: 0.8729
+
+1200000_24.txt
+Total valid SMILES: 43679
+Total invalid SMILES: 6316
+Overall validation rate: 0.87358

@@ -1,5 +1,4 @@
 
-
 def data_size(text, training_size):
     training = str()
     lines = text.split('\n')
